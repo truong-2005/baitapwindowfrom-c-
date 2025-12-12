@@ -1,0 +1,17 @@
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\bin\Debug\net8.0-windows\Example11.exe
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\bin\Debug\net8.0-windows\Example11.deps.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\bin\Debug\net8.0-windows\Example11.runtimeconfig.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\bin\Debug\net8.0-windows\Example11.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\bin\Debug\net8.0-windows\Example11.pdb
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.Form1.resources
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.csproj.GenerateResource.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.AssemblyInfoInputs.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.AssemblyInfo.cs
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.csproj.CoreCompileInputs.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.sourcelink.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\refint\Example11.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.pdb
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\Example11.genruntimeconfig.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example11\obj\Debug\net8.0-windows\ref\Example11.dll

@@ -1,0 +1,15 @@
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\bin\Debug\net8.0-windows\Example08.exe
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\bin\Debug\net8.0-windows\Example08.deps.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\bin\Debug\net8.0-windows\Example08.runtimeconfig.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\bin\Debug\net8.0-windows\Example08.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\bin\Debug\net8.0-windows\Example08.pdb
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\Example08.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\Example08.AssemblyInfoInputs.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\Example08.AssemblyInfo.cs
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\Example08.csproj.CoreCompileInputs.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\Example08.sourcelink.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\Example08.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\refint\Example08.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\Example08.pdb
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\Example08.genruntimeconfig.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example08\obj\Debug\net8.0-windows\ref\Example08.dll

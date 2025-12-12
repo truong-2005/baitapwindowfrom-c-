@@ -1,0 +1,16 @@
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\bin\Debug\net8.0-windows\Example01.exe
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\bin\Debug\net8.0-windows\Example01.deps.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\bin\Debug\net8.0-windows\Example01.runtimeconfig.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\bin\Debug\net8.0-windows\Example01.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\bin\Debug\net8.0-windows\Example01.pdb
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\Example01.Form1.resources
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\Example01.csproj.GenerateResource.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\Example01.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\Example01.AssemblyInfoInputs.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\Example01.AssemblyInfo.cs
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\Example01.csproj.CoreCompileInputs.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\Example01.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\refint\Example01.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\Example01.pdb
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\Example01.genruntimeconfig.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\Example01\obj\Debug\net8.0-windows\ref\Example01.dll

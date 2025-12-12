@@ -1,0 +1,17 @@
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\bin\Debug\net8.0-windows\ExampleMenu.exe
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\bin\Debug\net8.0-windows\ExampleMenu.deps.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\bin\Debug\net8.0-windows\ExampleMenu.runtimeconfig.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\bin\Debug\net8.0-windows\ExampleMenu.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\bin\Debug\net8.0-windows\ExampleMenu.pdb
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.Form1.resources
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.csproj.GenerateResource.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.AssemblyInfoInputs.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.AssemblyInfo.cs
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.csproj.CoreCompileInputs.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.sourcelink.json
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\refint\ExampleMenu.dll
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.pdb
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ExampleMenu.genruntimeconfig.cache
+D:\NguyenQuangTruong_2123110098_C#\NguyenQuangTruong_2123110098_C#\ExampleMenu\obj\Debug\net8.0-windows\ref\ExampleMenu.dll

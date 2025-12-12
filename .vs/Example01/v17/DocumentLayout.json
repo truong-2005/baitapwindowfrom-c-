@@ -1,0 +1,821 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE736388-66C7-4F2B-B951-6CE8920FBC6C}|..\\Example13\\Example13.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE736388-66C7-4F2B-B951-6CE8920FBC6C}|..\\Example13\\Example13.csproj|solutionrelative:example13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE736388-66C7-4F2B-B951-6CE8920FBC6C}|..\\Example13\\Example13.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example13\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE736388-66C7-4F2B-B951-6CE8920FBC6C}|..\\Example13\\Example13.csproj|solutionrelative:example13\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B53FA4-6B59-445E-A4AE-6272933E54E5}|..\\ExampleMenu\\ExampleMenu.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\examplemenu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B53FA4-6B59-445E-A4AE-6272933E54E5}|..\\ExampleMenu\\ExampleMenu.csproj|solutionrelative:examplemenu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B53FA4-6B59-445E-A4AE-6272933E54E5}|..\\ExampleMenu\\ExampleMenu.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\examplemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B53FA4-6B59-445E-A4AE-6272933E54E5}|..\\ExampleMenu\\ExampleMenu.csproj|solutionrelative:examplemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE736388-66C7-4F2B-B951-6CE8920FBC6C}|..\\Example13\\Example13.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE736388-66C7-4F2B-B951-6CE8920FBC6C}|..\\Example13\\Example13.csproj|solutionrelative:example13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C7EF0-A969-439C-A5B0-9E2EEFE648DE}|..\\Example11\\Example11.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C7EF0-A969-439C-A5B0-9E2EEFE648DE}|..\\Example11\\Example11.csproj|solutionrelative:example11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD62-2885-B119-FF2E-D16B63C2E7ED}|..\\Example04\\Example04.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example04\\example04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9E8FD62-2885-B119-FF2E-D16B63C2E7ED}|..\\Example04\\Example04.csproj|solutionrelative:example04\\example04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B53FA4-6B59-445E-A4AE-6272933E54E5}|..\\ExampleMenu\\ExampleMenu.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\examplemenu\\examplemenu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83B53FA4-6B59-445E-A4AE-6272933E54E5}|..\\ExampleMenu\\ExampleMenu.csproj|solutionrelative:examplemenu\\examplemenu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|NguyenQuangTruong.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|NguyenQuangTruong.csproj|solutionrelative:nguyenquangtruong_2123110098_c#\\nguyenquangtruong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B53FA4-6B59-445E-A4AE-6272933E54E5}|..\\ExampleMenu\\ExampleMenu.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\examplemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83B53FA4-6B59-445E-A4AE-6272933E54E5}|..\\ExampleMenu\\ExampleMenu.csproj|solutionrelative:examplemenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BCA3E4-8FE1-545F-7416-ABC6FE760AD3}|..\\Example02\\Example02.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example02\\example02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83BCA3E4-8FE1-545F-7416-ABC6FE760AD3}|..\\Example02\\Example02.csproj|solutionrelative:example02\\example02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0B0152-6A87-4072-B13B-33AA64562C00}|..\\Example10\\Example10.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD0B0152-6A87-4072-B13B-33AA64562C00}|..\\Example10\\Example10.csproj|solutionrelative:example10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD62-2885-B119-FF2E-D16B63C2E7ED}|..\\Example04\\Example04.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example04\\example04.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B9E8FD62-2885-B119-FF2E-D16B63C2E7ED}|..\\Example04\\Example04.csproj|solutionrelative:example04\\example04.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD62-2885-B119-FF2E-D16B63C2E7ED}|..\\Example04\\Example04.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD62-2885-B119-FF2E-D16B63C2E7ED}|..\\Example04\\Example04.csproj|solutionrelative:example04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD62-2885-B119-FF2E-D16B63C2E7ED}|..\\Example04\\Example04.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9E8FD62-2885-B119-FF2E-D16B63C2E7ED}|..\\Example04\\Example04.csproj|solutionrelative:example04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|NguyenQuangTruong.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|NguyenQuangTruong.csproj|solutionrelative:nguyenquangtruong_2123110098_c#\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|NguyenQuangTruong.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|NguyenQuangTruong.csproj|solutionrelative:nguyenquangtruong_2123110098_c#\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|NguyenQuangTruong.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|NguyenQuangTruong.csproj|solutionrelative:nguyenquangtruong_2123110098_c#\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|Example01.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|Example01.csproj|solutionrelative:nguyenquangtruong_2123110098_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|Example01.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|Example01.csproj|solutionrelative:nguyenquangtruong_2123110098_c#\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|Example01.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|Example01.csproj|solutionrelative:nguyenquangtruong_2123110098_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|Example01.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C913EDEE-0F3A-99BC-E34A-02EE226F1FD2}|Example01.csproj|solutionrelative:nguyenquangtruong_2123110098_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example05\\example05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|solutionrelative:example05\\example05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|solutionrelative:example05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD57412-ADC6-4191-9E2C-C9C1B2D7E492}|..\\Example12\\Example12.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD57412-ADC6-4191-9E2C-C9C1B2D7E492}|..\\Example12\\Example12.csproj|solutionrelative:example12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD57412-ADC6-4191-9E2C-C9C1B2D7E492}|..\\Example12\\Example12.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example12\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD57412-ADC6-4191-9E2C-C9C1B2D7E492}|..\\Example12\\Example12.csproj|solutionrelative:example12\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C7EF0-A969-439C-A5B0-9E2EEFE648DE}|..\\Example11\\Example11.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example11\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C7EF0-A969-439C-A5B0-9E2EEFE648DE}|..\\Example11\\Example11.csproj|solutionrelative:example11\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD57412-ADC6-4191-9E2C-C9C1B2D7E492}|..\\Example12\\Example12.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDD57412-ADC6-4191-9E2C-C9C1B2D7E492}|..\\Example12\\Example12.csproj|solutionrelative:example12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C7EF0-A969-439C-A5B0-9E2EEFE648DE}|..\\Example11\\Example11.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{361C7EF0-A969-439C-A5B0-9E2EEFE648DE}|..\\Example11\\Example11.csproj|solutionrelative:example11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0B0152-6A87-4072-B13B-33AA64562C00}|..\\Example10\\Example10.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0B0152-6A87-4072-B13B-33AA64562C00}|..\\Example10\\Example10.csproj|solutionrelative:example10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0B0152-6A87-4072-B13B-33AA64562C00}|..\\Example10\\Example10.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0B0152-6A87-4072-B13B-33AA64562C00}|..\\Example10\\Example10.csproj|solutionrelative:example10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807E9F14-AE3B-442B-9B4B-D6D92DC3F2BF}|..\\Example09\\Example09.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807E9F14-AE3B-442B-9B4B-D6D92DC3F2BF}|..\\Example09\\Example09.csproj|solutionrelative:example09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807E9F14-AE3B-442B-9B4B-D6D92DC3F2BF}|..\\Example09\\Example09.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example09\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807E9F14-AE3B-442B-9B4B-D6D92DC3F2BF}|..\\Example09\\Example09.csproj|solutionrelative:example09\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807E9F14-AE3B-442B-9B4B-D6D92DC3F2BF}|..\\Example09\\Example09.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{807E9F14-AE3B-442B-9B4B-D6D92DC3F2BF}|..\\Example09\\Example09.csproj|solutionrelative:example09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684C35BD-B46C-4438-9966-47F89E9D37EE}|..\\Example08\\Example08.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example08\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684C35BD-B46C-4438-9966-47F89E9D37EE}|..\\Example08\\Example08.csproj|solutionrelative:example08\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684C35BD-B46C-4438-9966-47F89E9D37EE}|..\\Example08\\Example08.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684C35BD-B46C-4438-9966-47F89E9D37EE}|..\\Example08\\Example08.csproj|solutionrelative:example08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB59A8F-74CD-4926-A53B-820C9C0FF6FC}|..\\Example07\\Example07.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example07\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB59A8F-74CD-4926-A53B-820C9C0FF6FC}|..\\Example07\\Example07.csproj|solutionrelative:example07\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684C35BD-B46C-4438-9966-47F89E9D37EE}|..\\Example08\\Example08.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684C35BD-B46C-4438-9966-47F89E9D37EE}|..\\Example08\\Example08.csproj|solutionrelative:example08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB59A8F-74CD-4926-A53B-820C9C0FF6FC}|..\\Example07\\Example07.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB59A8F-74CD-4926-A53B-820C9C0FF6FC}|..\\Example07\\Example07.csproj|solutionrelative:example07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB59A8F-74CD-4926-A53B-820C9C0FF6FC}|..\\Example07\\Example07.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDB59A8F-74CD-4926-A53B-820C9C0FF6FC}|..\\Example07\\Example07.csproj|solutionrelative:example07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB59A8F-74CD-4926-A53B-820C9C0FF6FC}|..\\Example07\\Example07.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB59A8F-74CD-4926-A53B-820C9C0FF6FC}|..\\Example07\\Example07.csproj|solutionrelative:example07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA0729-FD3D-4356-9C9D-21CDA3A103A9}|..\\Example06\\Example06.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCA0729-FD3D-4356-9C9D-21CDA3A103A9}|..\\Example06\\Example06.csproj|solutionrelative:example06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA0729-FD3D-4356-9C9D-21CDA3A103A9}|..\\Example06\\Example06.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCA0729-FD3D-4356-9C9D-21CDA3A103A9}|..\\Example06\\Example06.csproj|solutionrelative:example06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA0729-FD3D-4356-9C9D-21CDA3A103A9}|..\\Example06\\Example06.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCA0729-FD3D-4356-9C9D-21CDA3A103A9}|..\\Example06\\Example06.csproj|solutionrelative:example06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA0729-FD3D-4356-9C9D-21CDA3A103A9}|..\\Example06\\Example06.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBCA0729-FD3D-4356-9C9D-21CDA3A103A9}|..\\Example06\\Example06.csproj|solutionrelative:example06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|solutionrelative:example05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|solutionrelative:example05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|d:\\nguyenquangtruong_2123110098_c#\\nguyenquangtruong_2123110098_c#\\example05\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7E5B7D-63AC-4E85-83BC-6778C7CAE837}|..\\Example05\\Example05.csproj|solutionrelative:example05\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example13\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Example13\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example13\\Form1.Designer.cs",
+              "RelativeToolTip": "Example13\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:22:18.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NguyenQuangTruong.csproj",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong.csproj",
+              "RelativeDocumentMoniker": "NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong.csproj",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong.csproj",
+              "RelativeToolTip": "NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T07:44:43.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExampleMenu",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\ExampleMenu\\ExampleMenu.csproj",
+              "RelativeDocumentMoniker": "ExampleMenu\\ExampleMenu.csproj",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\ExampleMenu\\ExampleMenu.csproj",
+              "RelativeToolTip": "ExampleMenu\\ExampleMenu.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T08:00:30.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example11\\Form1.cs",
+              "RelativeDocumentMoniker": "Example11\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example11\\Form1.cs",
+              "RelativeToolTip": "Example11\\Form1.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAywH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:35:57.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example13\\Form1.cs",
+              "RelativeDocumentMoniker": "Example13\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example13\\Form1.cs [Design]",
+              "RelativeToolTip": "Example13\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:19:00.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\ExampleMenu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ExampleMenu\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\ExampleMenu\\Form1.Designer.cs",
+              "RelativeToolTip": "ExampleMenu\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:04:30.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\ExampleMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "ExampleMenu\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\ExampleMenu\\Form1.cs",
+              "RelativeToolTip": "ExampleMenu\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:01:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example13\\Form1.cs",
+              "RelativeDocumentMoniker": "Example13\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example13\\Form1.cs",
+              "RelativeToolTip": "Example13\\Form1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAIwH4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:35:01.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Example02",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example02\\Example02.csproj",
+              "RelativeDocumentMoniker": "Example02\\Example02.csproj",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example02\\Example02.csproj",
+              "RelativeToolTip": "Example02\\Example02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T07:37:14.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example10\\Form1.cs",
+              "RelativeDocumentMoniker": "Example10\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example10\\Form1.cs [Design]",
+              "RelativeToolTip": "Example10\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:19:42.579Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Example04",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example04\\Example04.csproj",
+              "RelativeDocumentMoniker": "Example04\\Example04.csproj",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example04\\Example04.csproj",
+              "RelativeToolTip": "Example04\\Example04.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T07:37:55.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\ExampleMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "ExampleMenu\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\ExampleMenu\\Form1.cs [Design]",
+              "RelativeToolTip": "ExampleMenu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:00:23.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example04\\Form1.cs",
+              "RelativeDocumentMoniker": "Example04\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example04\\Form1.cs",
+              "RelativeToolTip": "Example04\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:06:30.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Example04",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example04\\Example04.csproj",
+              "RelativeDocumentMoniker": "Example04\\Example04.csproj",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example04\\Example04.csproj",
+              "RelativeToolTip": "Example04\\Example04.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T08:08:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example04\\Form1.cs",
+              "RelativeDocumentMoniker": "Example04\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example04\\Form1.cs [Design]",
+              "RelativeToolTip": "Example04\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:06:25.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTruong_2123110098_C#\\Form2.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form2.Designer.cs",
+              "RelativeToolTip": "NguyenQuangTruong_2123110098_C#\\Form2.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:57:43.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form1.resx",
+              "RelativeDocumentMoniker": "NguyenQuangTruong_2123110098_C#\\Form1.resx",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form1.resx",
+              "RelativeToolTip": "NguyenQuangTruong_2123110098_C#\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-12T07:57:52.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "form2.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\form2.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTruong_2123110098_C#\\form2.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\form2.cs [Design]",
+              "RelativeToolTip": "NguyenQuangTruong_2123110098_C#\\form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:46:11.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTruong_2123110098_C#\\Program.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Program.cs",
+              "RelativeToolTip": "NguyenQuangTruong_2123110098_C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:43:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Example05",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Example05.csproj",
+              "RelativeDocumentMoniker": "Example05\\Example05.csproj",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Example05.csproj",
+              "RelativeToolTip": "Example05\\Example05.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T07:36:37.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTruong_2123110098_C#\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form1.Designer.cs",
+              "RelativeToolTip": "NguyenQuangTruong_2123110098_C#\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:49:29.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTruong_2123110098_C#\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form1.cs [Design]",
+              "RelativeToolTip": "NguyenQuangTruong_2123110098_C#\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:49:25.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTruong_2123110098_C#\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Form1.cs",
+              "RelativeToolTip": "NguyenQuangTruong_2123110098_C#\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:49:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example12\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Example12\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example12\\Form1.Designer.cs",
+              "RelativeToolTip": "Example12\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:45:37.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example12\\Form1.cs",
+              "RelativeDocumentMoniker": "Example12\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example12\\Form1.cs",
+              "RelativeToolTip": "Example12\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:45:46.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example11\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Example11\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example11\\Form1.Designer.cs",
+              "RelativeToolTip": "Example11\\Form1.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:35:43.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Form1.cs",
+              "RelativeDocumentMoniker": "Example05\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Form1.cs",
+              "RelativeToolTip": "Example05\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:44:47.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example12\\Form1.cs",
+              "RelativeDocumentMoniker": "Example12\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example12\\Form1.cs [Design]",
+              "RelativeToolTip": "Example12\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:44:20.865Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example11\\Form1.cs",
+              "RelativeDocumentMoniker": "Example11\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example11\\Form1.cs [Design]",
+              "RelativeToolTip": "Example11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:25:13.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example10\\Form1.cs",
+              "RelativeDocumentMoniker": "Example10\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example10\\Form1.cs",
+              "RelativeToolTip": "Example10\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:23:19.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example10\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Example10\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example10\\Form1.Designer.cs",
+              "RelativeToolTip": "Example10\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:23:02.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example09\\Form1.cs",
+              "RelativeDocumentMoniker": "Example09\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example09\\Form1.cs",
+              "RelativeToolTip": "Example09\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:16:40.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example09\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Example09\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example09\\Form1.Designer.cs",
+              "RelativeToolTip": "Example09\\Form1.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:14:56.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example09\\Form1.cs",
+              "RelativeDocumentMoniker": "Example09\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example09\\Form1.cs [Design]",
+              "RelativeToolTip": "Example09\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:14:47.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example08\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Example08\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example08\\Form1.Designer.cs",
+              "RelativeToolTip": "Example08\\Form1.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwE0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:09:53.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example08\\Form1.cs",
+              "RelativeDocumentMoniker": "Example08\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example08\\Form1.cs",
+              "RelativeToolTip": "Example08\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:09:33.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example08\\Form1.cs",
+              "RelativeDocumentMoniker": "Example08\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example08\\Form1.cs [Design]",
+              "RelativeToolTip": "Example08\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:08:30.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example07\\Form1.cs",
+              "RelativeDocumentMoniker": "Example07\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example07\\Form1.cs",
+              "RelativeToolTip": "Example07\\Form1.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:02:01.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example07\\Program.cs",
+              "RelativeDocumentMoniker": "Example07\\Program.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example07\\Program.cs",
+              "RelativeToolTip": "Example07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:59:17.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example07\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Example07\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example07\\Form1.Designer.cs",
+              "RelativeToolTip": "Example07\\Form1.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:58:54.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example07\\Form1.cs",
+              "RelativeDocumentMoniker": "Example07\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example07\\Form1.cs [Design]",
+              "RelativeToolTip": "Example07\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:56:52.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example06\\Program.cs",
+              "RelativeDocumentMoniker": "Example06\\Program.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example06\\Program.cs",
+              "RelativeToolTip": "Example06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:53:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example06\\Form1.cs",
+              "RelativeDocumentMoniker": "Example06\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example06\\Form1.cs",
+              "RelativeToolTip": "Example06\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:53:02.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example06\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Example06\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example06\\Form1.Designer.cs",
+              "RelativeToolTip": "Example06\\Form1.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwE4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:52:19.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example06\\Form1.cs",
+              "RelativeDocumentMoniker": "Example06\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example06\\Form1.cs [Design]",
+              "RelativeToolTip": "Example06\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:51:28.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Example05\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Form1.Designer.cs",
+              "RelativeToolTip": "Example05\\Form1.Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:45:53.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Program.cs",
+              "RelativeDocumentMoniker": "Example05\\Program.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Program.cs",
+              "RelativeToolTip": "Example05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:45:21.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Form1.cs",
+              "RelativeDocumentMoniker": "Example05\\Form1.cs",
+              "ToolTip": "D:\\NguyenQuangTruong_2123110098_C#\\NguyenQuangTruong_2123110098_C#\\Example05\\Form1.cs [Design]",
+              "RelativeToolTip": "Example05\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:41:31.338Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
